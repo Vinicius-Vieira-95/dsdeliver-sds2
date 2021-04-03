@@ -21,3 +21,26 @@ A aplicação consiste em site de pedidos, onde o cliente escolher seus pedidos 
 ![Mobile 1](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/mobile1.png)
 ![Mobile 2](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/mobile2.png)
 ![Mobile 3](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/mobile3.png)
+
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring boot
+- Maven 
+- JPA / Hibernate
+
+## Front end
+- TypeScript / CSS / HTML / JS
+- ReactJS
+- Expo
+- React Native
+
+## Implatação em produção
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql
+
+# Autor
+
+Vinicius Vieira Carneiro
+https://github.com/Vinicius-Vieira-95
