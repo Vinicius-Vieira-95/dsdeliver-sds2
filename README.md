@@ -11,4 +11,8 @@ DSDeliver é uma aplicação full stack e mobile desenvolvida na semana DevSuper
 A aplicação consiste em site de pedidos, onde o cliente escolher seus pedidos no menu do site e coloca seu endereço de entrega, na aplicação mobile
 é direcionado ao entregador que recebe o pedido do cliente e faz a confirmação da entrega.
 
+## Layout web
+
+![Web 1](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/webdsdeliver.png)
+![Web 2](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/webdsdeliver2.png)
 
