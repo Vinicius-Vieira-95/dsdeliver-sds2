@@ -16,3 +16,8 @@ A aplicação consiste em site de pedidos, onde o cliente escolher seus pedidos 
 ![Web 1](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/webdsdeliver.png)
 ![Web 2](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/webdsdeliver2.png)
 
+## Layout mobile
+
+![Mobile 1](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/mobile1.png)
+![Mobile 2](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/mobile2.png)
+![Mobile 3](https://github.com/Vinicius-Vieira-95/sds2img/blob/main/mobile3.png)
